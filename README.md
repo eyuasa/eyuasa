@@ -2,7 +2,7 @@
 - 👀 I’m interested in Health Informatics, Data Science, Data Visualizations, and Mental Health Policy
 - 🌱 I’m currently learning Python, R, Data Science (NLP & Health AI), Spacial Statistics, and Health Policy
 - 💞️ I’m looking to collaborate on projects regarding Public Health Data Science 
-- 📫 How to reach me ekyuasa@gmail.com 
+- 📫 Reach me at ekyuasa@gmail.com or https://www.linkedin.com/in/erynyuasa/
 
 <!---
 eyuasa/eyuasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
