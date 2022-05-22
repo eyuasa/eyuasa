@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eryn Yuasa, a current MS student in Public Health at the Johns Hopkins Bloomberg School of Public Health
-- 👀 I’m interested in Health Informatics, Data Science, Data Visualizations, and equitable healthcare access
+- 👀 I’m interested in Health Informatics, Data Science, Data Visualizations, and Mental Health Policy
 - 🌱 I’m currently learning Python, R, Data Science (NLP & Health AI), Spacial Statistics, and Health Policy
 - 💞️ I’m looking to collaborate on projects regarding Public Health Data Science 
 - 📫 How to reach me ekyuasa@gmail.com 
